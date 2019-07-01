@@ -26,3 +26,11 @@
 1. I faced with environmental problems, Anaconda Navigator and Anaconda Prompt crashed, It took me a few hours for debugging and reinstall it.
 2. I worked on Udacity Intro to Deep Learning with Developer Circles from FB (ud288) lesson 4 but didn't finish it
 3. Datacamp 184 Day Streak completed and made 1000 XP points from practice. (partly DL lessons)
+
+### Day 4 / 60: 2019. 07. 01.
+
+1. Secure And Private AI Course lesson 2 (or ud288 lesson4) completed.
+2. I encourage @Ramez, @Barta Éva Anna to start this challenge!
+3. Datacamp 185 Day Streak completed
+#60daysofudacity
+
