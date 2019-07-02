@@ -34,3 +34,9 @@
 3. Datacamp 185 Day Streak completed
 #60daysofudacity
 
+### Day 5 / 60: 2019. 07. 02.
+
+1. Secure And Private AI Course lesson 3 completed.
+2. SPAIC lesson 4 Concepts 1-4 finished.
+3. I encourage @Giulia @Karthikeyan Sankar to start this challenge!
+#60daysofudacity
