@@ -40,3 +40,11 @@
 2. SPAIC lesson 4 Concepts 1-4 finished.
 3. I encourage @Giulia @Karthikeyan Sankar to start this challenge!
 #60daysofudacity
+
+### Day 6 / 60: 2019. 07. 03.
+
+1. Secure And Private AI Course lesson 4 completed.
+2. SPAIC lesson 5 Concepts 1-5 finished.
+3. I encourage  @Xiaolei Zhang @Xing @Xiaolei Zhang @Xue Zou @Jia Xia @Xue Zou to start this challenge! :grinning:
+#60daysofudacity
+
