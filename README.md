@@ -48,3 +48,9 @@
 3. I encourage  @Xiaolei Zhang @Xing @Xiaolei Zhang @Xue Zou @Jia Xia @Xue Zou to start this challenge! :grinning:
 #60daysofudacity
 
+### Day 7 / 60: 2019. 07. 04.
+
+1. Intro to Deep Learning with Pytorch Course lesson 5 concepts 1-10 completed.
+2. I encourage @Jayesh Suvagiya @Noelia Sandra Franco Alejandro @Noom Chanthadit @Nosa @Norma Constanza Leguizamon Diaz @Noureldin Hassan @Douglas Northcott @Mahmoud Nour to start this challenge! :grinning:
+#60daysofudacity
+
