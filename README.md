@@ -54,3 +54,10 @@
 2. I encourage @Jayesh Suvagiya @Noelia Sandra Franco Alejandro @Noom Chanthadit @Nosa @Norma Constanza Leguizamon Diaz @Noureldin Hassan @Douglas Northcott @Mahmoud Nour to start this challenge! :grinning:
 #60daysofudacity
 
+### Day 8 / 60: 2019. 07. 05.
+
+1. SPAIC lesson 5 finished.
+2. Intro to Deep Learning with Pytorch Course lesson 5 continued.
+3. Organised local meetup.
+4. I encourage @Ramin Mohammadi @Cataleya @Fernanda Nader @Harini N @KARIM B to start this challenge! :grinning:
+#60daysofudacity
