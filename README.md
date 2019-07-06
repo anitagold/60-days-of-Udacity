@@ -61,3 +61,9 @@
 3. Organised local meetup.
 4. I encourage @Ramin Mohammadi @Cataleya @Fernanda Nader @Harini N @KARIM B to start this challenge! :grinning:
 #60daysofudacity
+
+### Day 9 / 60: 2019. 07. 06.
+
+1. SPAIC lesson 6 finished.
+2. I'd like to encourage my lovely Hungarian team @EveKov, @birozso and @Richard to go forward with this challenge! :grinning:
+#60daysofudacity
