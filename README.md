@@ -73,3 +73,11 @@
 1. SPAIC lesson 7 Concepts 1-12 finished.
 2. I'd like to encourage @Madhuri Sudharshan Gota @Nouran @Ajay Arasanipalai @Aerocedi to start this challenge! :grinning:
 #60daysofudacity
+
+### Day 11: 2019. 07. 08.
+
+1. SPAIC lesson 7 concept 13 finished.
+2. SPAIC lesson 8 finished.
+3. 2. I'd like to encourage my Hungarian team @EveKov, @birozso and @Richard don't forget this challenge! :grinning:
+#60daysofudacity
+
