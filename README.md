@@ -84,5 +84,5 @@
 ### Day 12: 2019. 07. 09.
 
 1. SPAIC lesson 9 concepts 1-4 finished.
-2. I'd like to encourage ... to start this challenge! :grinning:
+2. I'd like to encourage @Richard Kiddle @EnduranceCode @Richa @Richard Plesh @Ricardo @Ricardo Rios @Ricardo Alvaro Lohmann @RichOpen @Ricardo Elizondo @Ricardo Felipe Redin to start this challenge! :grinning:
 #60daysofudacity
