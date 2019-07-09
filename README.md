@@ -81,3 +81,8 @@
 3. 2. I'd like to encourage my Hungarian team @EveKov, @birozso and @Richard don't forget this challenge! :grinning:
 #60daysofudacity
 
+### Day 12: 2019. 07. 09.
+
+1. SPAIC lesson 9 concepts 1-4 finished.
+2. I'd like to encourage ... to start this challenge! :grinning:
+#60daysofudacity
