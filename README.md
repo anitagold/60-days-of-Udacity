@@ -78,11 +78,17 @@
 
 1. SPAIC lesson 7 concept 13 finished.
 2. SPAIC lesson 8 finished.
-3. 2. I'd like to encourage my Hungarian team @EveKov, @birozso and @Richard don't forget this challenge! :grinning:
+3. I'd like to encourage my Hungarian team @EveKov, @birozso and @Richard don't forget this challenge! :grinning:
 #60daysofudacity
 
 ### Day 12: 2019. 07. 09.
 
 1. SPAIC lesson 9 concepts 1-4 finished.
 2. I'd like to encourage @Richard Kiddle @EnduranceCode @Richa @Richard Plesh @Ricardo @Ricardo Rios @Ricardo Alvaro Lohmann @RichOpen @Ricardo Elizondo @Ricardo Felipe Redin to start this challenge! :grinning:
+#60daysofudacity
+
+### Day 13: 2019. 07. 10.
+
+1. SPAIC lesson 9-10 finished.
+2. I'd like to encourage my Hungarian team @EveKov, @birozso and @Richard don't forget this challenge! :grinning:
 #60daysofudacity
