@@ -92,3 +92,9 @@
 1. SPAIC lesson 9-10 finished.
 2. I'd like to encourage my Hungarian team @EveKov, @birozso and @Richard don't forget this challenge! :grinning:
 #60daysofudacity
+
+### Day 14: 2019. 07. 11.
+
+1. Intro to Deep Learning with Pytorch Course lesson 5 concepts 1-10 revised.
+2. Lesson 5 concepts 11-20 finished.
+#60daysofudacity
