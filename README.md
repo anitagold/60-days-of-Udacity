@@ -98,3 +98,10 @@
 1. Intro to Deep Learning with Pytorch Course lesson 5 concepts 1-10 revised.
 2. Lesson 5 concepts 11-20 finished.
 #60daysofudacity
+
+### Day 15: 2019. 07. 12.
+
+1. Joined different study groups like European, Kagglers, and Hackathon. Our Hungarian study group also was created.
+2. Intro to Deep Learning with Pytorch Course Lesson 5 concepts 21-30 completed.
+3. I'd like to encourage my Hungarian study group team member @EveKov to start this challenge and @birozso, @Richard don't forget today portion of this challenge! :bananadance::hero:
+#60daysofudacity
