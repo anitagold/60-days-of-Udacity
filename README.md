@@ -105,3 +105,12 @@
 2. Intro to Deep Learning with Pytorch Course Lesson 5 concepts 21-30 completed.
 3. I'd like to encourage my Hungarian study group team member @EveKov to start this challenge and @birozso, @Richard don't forget today portion of this challenge! :bananadance::hero:
 #60daysofudacity
+
+### Day 16: 2019. 07. 13.
+
+1. I've started the #sg_hackathon-orgnizrs weekly hackathon: Hackathon Blossom (Flower Classification) https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
+I am totally beginner both with Kaggle and PyTorch, so I am afraid I would need more time to finish it than 2 days but at least I will try it.
+2. I've read this article about Kaggle: https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
+3. Revised last AMA session transcripts
+4. Revised Deep Learning with Pytorch Course Lesson 4 concepts 18-22 about Transfer learning
+#60daysofudacity
