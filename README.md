@@ -114,3 +114,12 @@ I am totally beginner both with Kaggle and PyTorch, so I am afraid I would need 
 3. Revised last AMA session transcripts
 4. Revised Deep Learning with Pytorch Course Lesson 4 concepts 18-22 about Transfer learning
 #60daysofudacity
+
+### Day 17: 2019. 07. 14.
+
+1. I've worked in the #sg_hackathon-orgnizrs weekly hackathon: Hackathon Blossom (Flower Classification) https://www.kaggle.com/spaics/hackathon-blossom-flower-classification :hibiscus: :blossom: :rose: :cherry_blossom: :wilted_flower: :white_flower: :sunflower: :tulip: :bouquet: :hibiscus: :blossom: :rose: :cherry_blossom: :wilted_flower: :white_flower: :sunflower: :tulip: :bouquet: :hibiscus: :blossom: :rose: :cherry_blossom: :wilted_flower: :white_flower: :sunflower: :tulip: :bouquet: :hibiscus: :blossom: :rose: :cherry_blossom: :wilted_flower: :white_flower: :sunflower: :tulip: :bouquet:
+It is a little bit difficult for me but I enjoy it! I would have needed much more time to try more different models too, but it is OK.
+It's not the winning but the taking part that counts and I will do my best!
+2. I'd like to encourage every member in the Hungarian study group to start or continue the 60-days-challenge!
+@birozso, @Richard, @EveKov, @Attila Kasza, @Barta Éva Anna, @Szilvia Jakab, @Csaba Hurton, @Zsolt Molnár, @Eszter, @Krisztip, @Fekete Annamária
+#60daysofudacity 
