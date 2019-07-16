@@ -129,3 +129,8 @@ It's not the winning but the taking part that counts and I will do my best!
 1. Intro to Deep Learning with Pytorch Course Lesson 5 concepts 30-35 completed.
 2. I've worked in the #sg_hackathon-orgnizrs weekly hackathon: Hackathon Blossom (Flower Classification) https://www.kaggle.com/spaics/hackathon-blossom-flower-classification :hibiscus: :blossom: :rose: :cherry_blossom: :wilted_flower: :white_flower: :sunflower: :tulip: :bouquet: :hibiscus: 
 #60daysofudacity 
+
+### Day 19: 2019. 07. 16.
+
+1. Intro to Deep Learning with Pytorch Course Lesson 5 completed.
+#60daysofudacity 
