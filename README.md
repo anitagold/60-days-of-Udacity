@@ -134,3 +134,10 @@ It's not the winning but the taking part that counts and I will do my best!
 
 1. Intro to Deep Learning with Pytorch Course Lesson 5 completed.
 #60daysofudacity 
+
+### Day 20: 2019. 07. 17.
+
+1. Intro to Deep Learning with Pytorch Course Lesson 6 concepts 1-8 completed.
+2. Organized local meetup
+3. I'd like to encourage @Helena Barmer @Munira Omar @Amina Assouane @AlexDL @Jess @birozso @Richard @Samuela Anastasi to keep up the good work!
+#60daysofudacity
