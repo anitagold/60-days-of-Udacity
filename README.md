@@ -141,3 +141,10 @@ It's not the winning but the taking part that counts and I will do my best!
 2. Organized local meetup
 3. I'd like to encourage @Helena Barmer @Munira Omar @Amina Assouane @AlexDL @Jess @birozso @Richard @Samuela Anastasi to keep up the good work!
 #60daysofudacity
+
+### Day 21: 2019. 07. 18.
+
+1. Organized and participated our first local Budapest SPAIC meetup. Thanks everyone, it was great pleasure meeting you! Can't wait the next one!
+2. I'd like to encourage today my meetup partners @birozso @Richard @EveKov to keep up the good work!
+#60daysofudacity
+meetupBp1.jpg 
