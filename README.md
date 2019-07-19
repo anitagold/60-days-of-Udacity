@@ -148,3 +148,10 @@ It's not the winning but the taking part that counts and I will do my best!
 2. I'd like to encourage today my meetup partners @birozso @Richard @EveKov to keep up the good work!
 #60daysofudacity
 meetupBp1.jpg 
+
+### Day 22: 2019. 07. 19.
+
+1. Intro to Deep Learning with Pytorch Course Lesson 6 continued
+
+#60daysofudacity
+
