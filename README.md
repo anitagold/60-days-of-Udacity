@@ -152,6 +152,10 @@ meetupBp1.jpg
 ### Day 22: 2019. 07. 19.
 
 1. Intro to Deep Learning with Pytorch Course Lesson 6 continued
-
 #60daysofudacity
 
+### Day 23: 2019. 07. 20.
+
+1. Intro to Deep Learning with Pytorch Course Lesson 6 finished
+2. I'd like to encourage @Volha @Volkan Sahin @Vaibhav @Vaibhav Sharma @Vaibhav Solanki to start this challenge! 
+#60daysofudacity
