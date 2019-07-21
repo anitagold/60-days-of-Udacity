@@ -159,3 +159,8 @@ meetupBp1.jpg
 1. Intro to Deep Learning with Pytorch Course Lesson 6 finished
 2. I'd like to encourage @Volha @Volkan Sahin @Vaibhav @Vaibhav Sharma @Vaibhav Solanki to start this challenge! 
 #60daysofudacity
+
+### Day 24: 2019. 07. 21.
+
+1. Intro to Deep Learning with Pytorch Course Lesson 7 concepts 1-4 completed.
+#60daysofudacity
