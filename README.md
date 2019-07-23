@@ -170,3 +170,9 @@ meetupBp1.jpg
 1. Intro to Deep Learning with Pytorch Course Lesson 7 concepts 5-12 completed.
 2. Today I'd like to encourage my study group members @birozso @Richard @EveKov to continue this challenge! 
 #60daysofudacity
+
+### Day 26: 2019. 07. 23.
+
+1. Intro to Deep Learning with Pytorch Course Lesson 7 completed.
+2. Today I'd like to encourage @Ivy @Antonio @happycoder354!
+#60daysofudacity
