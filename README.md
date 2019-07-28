@@ -187,3 +187,15 @@ meetupBp1.jpg
 
 1. Intro to Deep Learning with Pytorch Course Lesson 8 concepts 5-8 completed.
 #60daysofudacity
+
+### Day 29: 2019. 07. 26.
+
+1. Intro to Deep Learning with Pytorch Course Lesson 8 completed.
+#60daysofudacity
+
+### Day 30: 2019. 07. 27.
+
+1. First virtual project meeting with the Hungarian #sg_hungary AI team: @birozso and @Richard. (@EveKov will see it tomorrow.)
+2. First virtual project meeting with @bhavz & @PRAXS for our Kaggle Aerial Cactus project as part of #sg_spaic-kagglers!
+3. Started working in the weekly hackathon with @Helena Barmer, @AlexDL and @Anju Mercian .
+#60daysofudacity
