@@ -199,3 +199,8 @@ meetupBp1.jpg
 2. First virtual project meeting with @bhavz & @PRAXS for our Kaggle Aerial Cactus project as part of #sg_spaic-kagglers!
 3. Started working in the weekly hackathon with @Helena Barmer, @AlexDL and @Anju Mercian .
 #60daysofudacity
+
+### Day 31: 2019. 07. 28.
+
+1. Continued working in the weekly hackathon with @Helena Barmer, @AlexDL and @Anju Mercian .
+#60daysofudacity
