@@ -204,3 +204,9 @@ meetupBp1.jpg
 
 1. Continued working in the weekly hackathon with @Helena Barmer, @AlexDL and @Anju Mercian .
 #60daysofudacity
+
+### Day 32: 2019. 07. 29.
+
+1. Intro to Deep Learning with Pytorch Course Lesson 9 started.
+2. Gatys Image Style Transfer Paper read: https://app.slack.com/client/TJHLH27H7/CL19AN459/thread/CKU89LR5H-1564408329.253200  
+#60daysofudacity
