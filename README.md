@@ -216,3 +216,7 @@ meetupBp1.jpg
 1. Intro to Deep Learning with Pytorch Course Lesson 9 completed.
 #60daysofudacity
 
+### Day 34: 2019. 07. 31.
+
+1. Udanicy Linear Algebra Refresher Course lesson 1 and lesson 2 concepts 1 - 8 completed
+#60daysofudacity
