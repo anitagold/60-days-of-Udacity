@@ -220,3 +220,10 @@ meetupBp1.jpg
 
 1. Udanicy Linear Algebra Refresher Course lesson 1 and lesson 2 concepts 1 - 8 completed
 #60daysofudacity
+
+### Day 35: 2019. 08. 01.
+
+1. Hold virtual meet-up and webinar with @birozso and @EveKov
+2. Created the project repo: https://github.com/anitagold/SPAIC_Hungary
+3. From Udacity blog I've read this inspiring and heartwarming story of Mateusz Zatylny: https://blog.udacity.com/2019/07/story-of-mateusz-zatylny-building-an-autonomous-wheelchair.html
+#60daysofudacity
