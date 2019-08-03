@@ -232,3 +232,9 @@ meetupBp1.jpg
 
 1. AWS DeepRacer Scholarship Challenge started
 #60daysofudacity
+
+### Day 37: 2019. 08. 03.
+
+1. AWS DeepRacer Scholarship Challenge lesson 2 completed
+2. AWS DeepRacer Scholarship Challenge lesson 3 concepts 1-4 completed
+#60daysofudacity
