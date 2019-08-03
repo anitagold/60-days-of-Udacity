@@ -227,3 +227,8 @@ meetupBp1.jpg
 2. Created the project repo: https://github.com/anitagold/SPAIC_Hungary
 3. From Udacity blog I've read this inspiring and heartwarming story of Mateusz Zatylny: https://blog.udacity.com/2019/07/story-of-mateusz-zatylny-building-an-autonomous-wheelchair.html
 #60daysofudacity
+
+### Day 36: 2019. 08. 02.
+
+1. AWS DeepRacer Scholarship Challenge started
+#60daysofudacity
