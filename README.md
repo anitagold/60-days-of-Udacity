@@ -238,3 +238,10 @@ meetupBp1.jpg
 1. AWS DeepRacer Scholarship Challenge lesson 2 completed
 2. AWS DeepRacer Scholarship Challenge lesson 3 concepts 1-4 completed
 #60daysofudacity
+
+### Day 38: 2019. 08. 04.
+
+1. AWS DeepRacer Scholarship Challenge lesson 3 continued
+2. I couldn't finish this lesson because due an identity verification error I was unable to login. I've read all the forum info and contacted AWS support. I hope they resolve it for tomorrow.
+#60daysofudacity
+
