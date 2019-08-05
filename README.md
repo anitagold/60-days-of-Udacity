@@ -245,3 +245,10 @@ meetupBp1.jpg
 2. I couldn't finish this lesson because due an identity verification error I was unable to login. I've read all the forum info and contacted AWS support. I hope they resolve it for tomorrow.
 #60daysofudacity
 
+### Day 39: 2019. 08. 05.
+
+1. AWS resolved the identity verification error so today I was able to login. 
+2. AWS DeepRacer Scholarship Challenge lesson 3 continued
+3. MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL) watched
+https://www.youtube.com/watch?v=zR11FLZ-O9M&feature=youtu.be
+#60daysofudacity
