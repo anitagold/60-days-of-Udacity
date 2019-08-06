@@ -252,3 +252,8 @@ meetupBp1.jpg
 3. MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL) watched
 https://www.youtube.com/watch?v=zR11FLZ-O9M&feature=youtu.be
 #60daysofudacity
+
+### Day 40: 2019. 08. 06.
+
+1. AWS DeepRacer Scholarship Challenge continued
+#60daysofudacity
