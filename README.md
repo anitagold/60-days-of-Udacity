@@ -257,3 +257,21 @@ https://www.youtube.com/watch?v=zR11FLZ-O9M&feature=youtu.be
 
 1. AWS DeepRacer Scholarship Challenge continued
 #60daysofudacity
+
+### Day 41: 2019. 08. 07.
+
+1. AWS DeepRacer Scholarship Challenge continued
+2. AWS DeepRacer Scholarship Challenge Racer Orientation watched
+https://www.youtube.com/watch?v=fbcYVCUWkoY&feature=youtu.be
+#60daysofudacity
+
+### Day 42: 2019. 08. 08.
+
+1. Udanicy Linear Algebra Refresher Course lesson 2 continued
+#60daysofudacity
+
+### Day 43: 2019. 08. 09.
+
+1. revised style transfer
+2. started to work in our project
+#60daysofudacity
