@@ -275,3 +275,9 @@ https://www.youtube.com/watch?v=fbcYVCUWkoY&feature=youtu.be
 1. revised style transfer
 2. started to work in our project
 #60daysofudacity
+
+### Day 44: 2019. 08. 10.
+
+1. read an article about CNN: https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8
+2. worked in our sg_hungary team project
+#60daysofudacity
