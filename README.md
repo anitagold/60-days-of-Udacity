@@ -281,3 +281,15 @@ https://www.youtube.com/watch?v=fbcYVCUWkoY&feature=youtu.be
 1. read an article about CNN: https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8
 2. worked in our sg_hungary team project
 #60daysofudacity
+
+### Day 45: 2019. 08. 11.
+
+1. revised style transfer concepts 1-3
+2. worked in our sg_hungary team project
+#60daysofudacity
+
+### Day 46: 2019. 08. 12.
+
+1. revised style transfer concepts 3-7
+2. worked in our sg_hungary team project
+#60daysofudacity
