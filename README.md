@@ -293,3 +293,8 @@ https://www.youtube.com/watch?v=fbcYVCUWkoY&feature=youtu.be
 1. revised style transfer concepts 3-7
 2. worked in our sg_hungary team project
 #60daysofudacity
+
+### Day 47: 2019. 08. 13.
+
+1. revised style transfer concepts 4-12 (offline, in the app)
+#60daysofudacity
