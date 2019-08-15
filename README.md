@@ -298,3 +298,11 @@ https://www.youtube.com/watch?v=fbcYVCUWkoY&feature=youtu.be
 
 1. revised style transfer concepts 4-12 (offline, in the app)
 #60daysofudacity
+
+### Day 48: 2019. 08. 14.
+
+1. practiced 19 DataCamp courses (partly ML,DL courses)
+2. Read Gatys Style transfer paper 
+https://files.slack.com/files-pri/TJHLH27H7-FLTRR22DN/download/gatys_image_style_transfer_cvpr_2016_paper.pdf
+
+#60daysofudacity
