@@ -306,3 +306,9 @@ https://www.youtube.com/watch?v=fbcYVCUWkoY&feature=youtu.be
 https://files.slack.com/files-pri/TJHLH27H7-FLTRR22DN/download/gatys_image_style_transfer_cvpr_2016_paper.pdf
 
 #60daysofudacity
+
+### Day 49: 2019. 08. 15.
+
+1. practiced 12 DataCamp courses (partly ML,DL courses)
+2. worked in our sg_hungary team project
+#60daysofudacity
