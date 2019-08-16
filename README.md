@@ -312,3 +312,9 @@ https://files.slack.com/files-pri/TJHLH27H7-FLTRR22DN/download/gatys_image_style
 1. practiced 12 DataCamp courses (partly ML,DL courses)
 2. worked in our sg_hungary team project
 #60daysofudacity
+
+### Day 50: 2019. 08. 16.
+
+1. worked in our sg_hungary team project
+2. Read Style Transfer paper for videos: https://arxiv.org/pdf/1604.08610.pdf
+#60daysofudacity
