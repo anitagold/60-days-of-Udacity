@@ -318,3 +318,10 @@ https://files.slack.com/files-pri/TJHLH27H7-FLTRR22DN/download/gatys_image_style
 1. worked in our sg_hungary team project
 2. Read Style Transfer paper for videos: https://arxiv.org/pdf/1604.08610.pdf
 #60daysofudacity
+
+### Day 51: 2019. 08. 17.
+
+1. worked in our sg_hungary team project
+2. watched Siraj Raval's video about DeepFakes: https://www.youtube.com/watch?v=7XchCsYtYMQ&feature=youtu.be
+3. watched a tutorial about Reinforcement Learning in the OpenAI Gym: https://www.youtube.com/watch?v=e8ofon3sg8E
+#60daysofudacity
