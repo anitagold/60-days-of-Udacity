@@ -325,3 +325,8 @@ https://files.slack.com/files-pri/TJHLH27H7-FLTRR22DN/download/gatys_image_style
 2. watched Siraj Raval's video about DeepFakes: https://www.youtube.com/watch?v=7XchCsYtYMQ&feature=youtu.be
 3. watched a tutorial about Reinforcement Learning in the OpenAI Gym: https://www.youtube.com/watch?v=e8ofon3sg8E
 #60daysofudacity
+
+### Day 52: 2019. 08. 18.
+
+1. worked in our sg_hungary team project
+#60daysofudacity
