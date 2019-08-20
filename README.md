@@ -331,7 +331,12 @@ https://files.slack.com/files-pri/TJHLH27H7-FLTRR22DN/download/gatys_image_style
 1. worked in our sg_hungary team project
 #60daysofudacity
 
-Day 53: 2019. 08. 19.
+### Day 53: 2019. 08. 19.
+
+1. worked in our sg_hungary team project
+#60daysofudacity
+
+### Day 54: 2019. 08. 20.
 
 1. worked in our sg_hungary team project
 #60daysofudacity
