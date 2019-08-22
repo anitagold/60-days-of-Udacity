@@ -340,3 +340,18 @@ https://files.slack.com/files-pri/TJHLH27H7-FLTRR22DN/download/gatys_image_style
 
 1. worked in our sg_hungary team project
 #60daysofudacity
+
+### Day 55: 2019. 08. 21.
+
+1. Reviewed Linear Algebra Refresher Course lesson 2 Concepts 1-10
+2. Finished Linear Algebra Refresher Course lesson 2
+3. Watched a video : An introductory lecture for MIT course 6.S094 on the basics of deep learning
+https://www.youtube.com/watch?v=O5xeyoRL95U
+#60daysofudacity
+
+### Day 56: 2019. 08. 22.
+
+1. Finished Linear Algebra Refresher Course lesson 3 Concepts 1-4
+2. Watched the first half of this video : 3Blue1Brown & Mathematics | Siraj Raval Podcast #3
+https://www.youtube.com/watch?v=8BXHmSzLEyw&feature=youtu.be 
+#60daysofudacity
