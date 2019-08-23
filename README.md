@@ -355,3 +355,11 @@ https://www.youtube.com/watch?v=O5xeyoRL95U
 2. Watched the first half of this video : 3Blue1Brown & Mathematics | Siraj Raval Podcast #3
 https://www.youtube.com/watch?v=8BXHmSzLEyw&feature=youtu.be 
 #60daysofudacity
+
+### Day 57: 2019. 08. 23.
+
+1. Reviewed course lesson 1 
+2. Reviewed course lesson 2 concepts 1-4
+2. Watched the second half of this video : 3Blue1Brown & Mathematics | Siraj Raval Podcast #3
+https://www.youtube.com/watch?v=8BXHmSzLEyw&feature=youtu.be 
+#60daysofudacity
