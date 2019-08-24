@@ -363,3 +363,8 @@ https://www.youtube.com/watch?v=8BXHmSzLEyw&feature=youtu.be
 2. Watched the second half of this video : 3Blue1Brown & Mathematics | Siraj Raval Podcast #3
 https://www.youtube.com/watch?v=8BXHmSzLEyw&feature=youtu.be 
 #60daysofudacity
+
+### Day 58: 2019. 08. 24.
+
+1. Reviewed course lesson 2 concepts 5-12
+#60daysofudacity
