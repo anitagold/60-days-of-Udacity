@@ -368,3 +368,8 @@ https://www.youtube.com/watch?v=8BXHmSzLEyw&feature=youtu.be
 
 1. Reviewed course lesson 2 concepts 5-12
 #60daysofudacity
+
+### Day 59: 2019. 08. 25.
+
+1. Reviewed course lesson 2 concepts 13-20
+#60daysofudacity
