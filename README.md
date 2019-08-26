@@ -373,3 +373,10 @@ https://www.youtube.com/watch?v=8BXHmSzLEyw&feature=youtu.be
 
 1. Reviewed course lesson 2 concepts 13-20
 #60daysofudacity
+
+### Day 60: 2019. 08. 26.
+
+1. Reviewed course lesson 2 
+Here is my github repo: https://github.com/anitagold/60-days-of-Udacity
+
+#60daysofudacity
